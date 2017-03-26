@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baby on BitterDebris.io</title>
+    <link>/tags/baby/index.xml</link>
+    <description>Recent content in Baby on BitterDebris.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/baby/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Darling</title>
+      <link>/2015/05/my-darling/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/05/my-darling/</guid>
+      <description>&lt;p&gt;
+This is my first post&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

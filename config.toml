@@ -15,7 +15,7 @@
 baseurl = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "BitterDebris.com"
+title = "Bitter Debris"
 theme = "baby"
 disqusShortname = "BitterDebris"
 googleAnalytics = "UA-97082523-1"
@@ -37,11 +37,11 @@ canonifyurls = true
   location = "Tirane"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   
- #gravatarEmail = "malukat69@gmail.com"
-  #author.picture = https://photos.google.com/search/_tra_/photo/AF1QipO4ffGZuENWYceMo-glDPUVpaBRcOheyhOf6mMP  
+ gravatarEmail = "me@bitterdebris.com"
+  picture = https://photos.google.com/search/_tra_/photo/AF1QipO4ffGZuENWYceMo-glDPUVpaBRcOheyhOf6mMP  
 # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://static.pexels.com/photos/31199/pexels-photo.jpg"
+  #picture = "https://static.pexels.com/photos/31199/pexels-photo.jpg"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311

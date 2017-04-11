@@ -6,7 +6,7 @@
 tags = ["funny","music"]
 categories = ["Debbris","Story"]
 date = "2017-03-26T13:00:00Z"
-title = "Dazling stars!!"
+title = "Dazling stars"
 keywords = ["art"]
 
 

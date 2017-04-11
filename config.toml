@@ -38,7 +38,7 @@ canonifyurls = true
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   
  gravatarEmail = "me@bitterdebris.com"
-  picture = //photos.google.com/search/_tra_/photo/AF1QipO4ffGZuENWYceMo-glDPUVpaBRcOheyhOf6mMP  
+  #picture = //photos.google.com/search/_tra_/photo/AF1QipO4ffGZuENWYceMo-glDPUVpaBRcOheyhOf6mMP  
 # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   #picture = "https://static.pexels.com/photos/31199/pexels-photo.jpg"

@@ -1,13 +1,3 @@
-
-
-
-
-# If you want to store images yourself, please read this guidelines:
-# For users, if you only use this theme, put your images directly in `source/assets/images` folder
-# But if you want to add local images, you can put your images directly in `source/assets/images` folder
-# For developpers, if you modify this theme, put your images in `source/images` folder and
-# use grunt task `build` to synchronize assets
-
 baseurl = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
@@ -28,7 +18,7 @@ canonifyurls = true
 
 [author]
   name = "Aldo Tahirllari"
-  bio = "*Contact: me[at]bitterdebris.com*"
+  bio = "**Lindur ne Tirane**"
   job = "IT Bussines Solution"
   location = "Tirane"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -112,7 +102,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Brain Storming Website"
+  description = "Brain Storming website"
 
   # Customization
   # Define the behavior of the sidebar
@@ -128,14 +118,14 @@ canonifyurls = true
   # 5: Display header bar on all screens and large sidebar is swiped on large screen
   # 6: Display header bar on all screens and medium sidebar is swiped
   sidebarBehavior = 1
-favicon = "favicon.ico"
+
   # Your blog cover picture. I STRONGLY recommend you to use a CDN to speed up loading of pages.
   # There is many free CDN like Cloudinary or you can also use indirectly
   # by using services like Google Photos.
   # Current image is on AWS S3 and delivered by AWS CloudFront.
   # Otherwise put your image in folder `static/_images/` (development)  or in `source/assets/images/` if you can't or don't want to build the theme,
   # and use relative url : `your-image.png`
-  coverImage = "cover.png"
+  coverImage = "cover.jpg"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true
@@ -160,13 +150,13 @@ favicon = "favicon.ico"
   #     class: st-search-show-outputs
   [params.header.rightLink]
     class = ""
-    icon = "favicon.ico"
+    icon = ""
     url = "/#about"
 
   # Customize like of athor avatar in sidebar
   # [params.sidebar.profile]
   #   url = "/#about"
 
-  # Customize copyright value "Â© 2016 <CUSTOMIZATION>. All Rights Reserved"
+  # Customize copyright value "© 2016 <CUSTOMIZATION>. All Rights Reserved"
   # [params.footer]
   #   copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"

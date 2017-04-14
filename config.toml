@@ -7,16 +7,7 @@ disqusShortname = "bitterdebris"
 googleAnalytics = "UA-97082523-1"
 paginate = 7
 canonifyurls = true
-sharing_options:
-    facebook:
-        icon: "fa-facebook-official"
-        url: "https://www.facebook.com/sharer/sharer.php?u={{post.permalink}}"
-    twitter:
-        icon: "fa-twitter"
-        url: "https://twitter.com/intent/tweet?text={{post.permalink}}"
-    google_plus:
-        icon: "fa-google-plus"
-        url: "https://plus.google.com/share?url={{post.permalink}}"
+
 
 [permalinks]
   post = "/:year/:month/:slug/"

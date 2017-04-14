@@ -28,8 +28,7 @@ canonifyurls = true
 
 [author]
   name = "Aldo Tahirllari"
-  bio = " 
-         *Contact: me[at]bitterdebris.com*"
+  bio = "*Contact: me[at]bitterdebris.com*"
   job = "IT Bussines Solution"
   location = "Tirane"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog

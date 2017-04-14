@@ -7,6 +7,7 @@ disqusShortname = "bitterdebris"
 googleAnalytics = "UA-97082523-1"
 paginate = 7
 canonifyurls = true
+post_asset_folder = true
 
 
 [permalinks]

@@ -117,7 +117,8 @@ image_gallery: true
 archive_pagination: true
 category_pagination: true
 tag_pagination: true
-  [params.header.rightLink]
+
+[params.header.rightLink]
     class = ""
     icon = ""
     url = "/#about"

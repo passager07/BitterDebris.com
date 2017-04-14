@@ -3,12 +3,18 @@
 
 
 
-tags = ["funny","music"]
-categories = ["Debbris","Story"]
-date = "2017-03-26T13:00:00Z"
-title = "Dazling stars"
-keywords = ["art"]
-comments = true
+title: "Cover image showcase"
+thumbnailImagePosition: left
+thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
+coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
+metaAlignment: center
+coverMeta: out
+date: 2015-05-13
+categories:
+- tranquilpeak
+- features
+tags:
+- cover image
 
 
 +++

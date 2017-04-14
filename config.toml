@@ -7,9 +7,6 @@ disqusShortname = "bitterdebris"
 googleAnalytics = "UA-97082523-1"
 paginate = 7
 canonifyurls = true
-
-[permalinks]
-  post = "/:year/:month/:slug/"
 sharing_options:
     facebook:
         icon: "fa-facebook-official"
@@ -20,6 +17,10 @@ sharing_options:
     google_plus:
         icon: "fa-google-plus"
         url: "https://plus.google.com/share?url={{post.permalink}}"
+
+[permalinks]
+  post = "/:year/:month/:slug/"
+
 
 [taxonomies]
   tag = "tags"

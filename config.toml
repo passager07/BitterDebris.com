@@ -107,7 +107,7 @@ post_asset_folder = true
 
   description = "Brain Storming website"
 
-  sidebar_behavior: 1
+sidebar_behavior: 1
 thumbnail_image: true
 thumbnail_image_position: right
 auto_thumbnail_image: true

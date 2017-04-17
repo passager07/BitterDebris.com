@@ -23,7 +23,7 @@ post_asset_folder = true
   name = "Aldo Tahirllari"
   bio = "Contact: me[at]bitterdebris.com"
   job = "IT Bussines Solution"
-  location = "Tirane"
+  location = "Tirane,Albania"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   
  gravatarEmail = "me@bitterdebris.com"
@@ -112,7 +112,7 @@ thumbnail_image: true
 thumbnail_image_position: right
 auto_thumbnail_image: true
 cover_image: cover.jpg
-favicon:
+favicon: favicon.png
 image_gallery: true
 archive_pagination: true
 category_pagination: true
@@ -120,7 +120,7 @@ tag_pagination: true
 
 [params.header.rightLink]
     class = ""
-    icon = ""
+    icon = "favicon.png"
     url = "/#about"
 
   # Customize like of athor avatar in sidebar

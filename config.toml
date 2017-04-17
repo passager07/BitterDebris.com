@@ -70,10 +70,10 @@ post_asset_folder = true
 
 [[menu.links]]
   weight = 0
-  identifier = "instagram"
-  name = "Instagram"
-  pre = "<i class=\"sidebar-button-icon fa fa-instagram"></i>"
-  url = "https://www.instagram.com/a.tahirllari/"
+  identifier = "github"
+  name = "GitHub"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
+  url = "https://github.com/passager07"
 [[menu.links]]
   weight = 1
   identifier = "stackoverflow"
@@ -107,16 +107,16 @@ post_asset_folder = true
 
   description = "Brain Storming website"
 
-sidebar_behavior: 1
-thumbnail_image: true
-thumbnail_image_position: right
-auto_thumbnail_image: true
-cover_image: cover.jpg
-favicon: favicon.png
-image_gallery: true
-archive_pagination: true
-category_pagination: true
-tag_pagination: true
+  sidebar_behavior: 1
+  thumbnail_image: true
+  thumbnail_image_position: right
+  auto_thumbnail_image: true
+  cover_image: cover.jpg
+  favicon: favicon.png
+  image_gallery: true
+  archive_pagination: true
+  category_pagination: true
+  tag_pagination: true
 
 [params.header.rightLink]
     class = ""

@@ -72,7 +72,7 @@ post_asset_folder = true
   weight = 0
   identifier = "instagram"
   name = "Instagram"
-  pre = "<i class=\|sidebar-button-icon fa fa-instagram"></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-instagram"></i>"
   url = "https://www.instagram.com/a.tahirllari/"
 [[menu.links]]
   weight = 1

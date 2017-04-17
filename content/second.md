@@ -1,4 +1,8 @@
 +++
+
+
+
+
 title: "Cover image showcase"
 thumbnailImagePosition: left
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
@@ -11,6 +15,8 @@ categories:
 - features
 tags:
 - cover image
+
+
 +++
 
 YouTube Inc. eshte nje faqe interneti qe konsiston ne

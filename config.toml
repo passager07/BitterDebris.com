@@ -72,7 +72,7 @@ post_asset_folder = true
   weight = 0
   identifier = "instagram"
   name = "Instagram"
-  pre = <i class="fa fa-instagram" aria-hidden="true"></i>
+  pre = "<i class="fa fa-instagram" aria-hidden="true"></i>"
   url = "https://www.instagram.com/a.tahirllari/"
 [[menu.links]]
   weight = 1

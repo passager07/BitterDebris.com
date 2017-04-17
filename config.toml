@@ -120,7 +120,7 @@ tag_pagination: true
 
 [params.header.rightLink]
     class = ""
-    icon = "favicon.png"
+    icon = ""
     url = "/#about"
 
   # Customize like of athor avatar in sidebar

@@ -70,10 +70,10 @@ post_asset_folder = true
 
 [[menu.links]]
   weight = 0
-  identifier = "github"
-  name = "GitHub"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/passager07"
+  identifier = "instagram"
+  name = "Instagram"
+  pre = <i class="fa fa-instagram" aria-hidden="true"></i>
+  url = "https://www.instagram.com/a.tahirllari/"
 [[menu.links]]
   weight = 1
   identifier = "stackoverflow"

@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "BitterDebris Blog"
+title = "BitterDebris >Blog"
 theme = "baby"
 disqusShortname = "bitterdebris"
 googleAnalytics = "UA-97082523-1"
